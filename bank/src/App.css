@@ -1,0 +1,52 @@
+body{
+  background: linear-gradient(90deg, #FDBB2D 0%, #22C1C3 100%);
+}
+#richest{
+  font-family: 'Permanent Marker', cursive;
+  text-align: center;
+  font-size: 25;
+}
+h1{
+  font-family: 'Special Elite', cursive;
+  text-align: center;
+}
+p{
+  font-family: 'Permanent Marker', cursive;
+  text-align: center;
+  font-size: 25;
+}
+
+#centerme2{
+	margin-top: 20px;
+	 text-align: center;
+  justify-content: center;
+}
+
+#bankaccount{
+  text-align:center;
+  justify-content: center;
+}
+
+#bankbutton{
+  text-align: center;
+  justify-content: center;
+}
+
+#centerme{
+	 text-align: center;
+  justify-content: center;
+}
+
+
+#newbankaccountNum{
+  width: 260px;
+}
+
+#newbankaccountName{
+  width: 260px;
+}
+
+#money{
+	 text-align: center;
+  justify-content: center;
+}
